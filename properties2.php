@@ -44,7 +44,7 @@ echo 'Class Variables <br>';
 
 echo '<pre>';
 print_r($class_vars);
-echo '</pre>'
+echo '</pre>;
 
 
 
