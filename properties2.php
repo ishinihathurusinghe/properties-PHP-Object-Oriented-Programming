@@ -4,7 +4,7 @@
 
      var $emp_id;
      var $first_name;
-     var $last_name
+     var $last_name;
      var $is_active = false;
  }
 
