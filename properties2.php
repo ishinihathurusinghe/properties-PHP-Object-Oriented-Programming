@@ -1,6 +1,6 @@
 <?php
  
-                                                 class Employee{
+                                                class Employee{
 
      var $emp_id;
      var $first_name;
